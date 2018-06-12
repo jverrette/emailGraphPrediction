@@ -1,4 +1,3 @@
 pandas
 numpy
-networkx
-pickle
+networkx==1.11
